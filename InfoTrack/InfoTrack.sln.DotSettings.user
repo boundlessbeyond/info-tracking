@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fab51594_002Db2fc_002D41a2_002D9b6d_002D462329823ee6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameMinValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameRangeValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameMaxValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameTimeValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameRulesValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameValidationTests.GameRulesMaxValidationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameAnswerTests.GameTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameAnswerTests.GameOtherTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameTests.GameExpired&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameTests.GameClockCannotBeReset&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB6F33CE-6C4D-4C23-A793-073F6AC5D102::net8.0::InfoTrack.Unit.Tests.UserGameAnswerTests.GameScoreTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
